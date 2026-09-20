@@ -94,7 +94,7 @@ I'm a developer who enjoys turning ideas into reliable, polished products. I car
 
 <p>
   <a href="https://github.com/aliabbasi-sketch"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:aliabbasi.sketch@gmail.com"><img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:ali.abbasi.swdev@gmail.com"><img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">Thanks for stopping by — ⭐ a project if you find it useful!</p>
